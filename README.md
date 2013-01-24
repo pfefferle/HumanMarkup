@@ -20,7 +20,7 @@ Jhon Doe says: "Lore Ipsum"!
 
 So it should be compiled like that:
 
-```
+```html
 Jhon Doe says: "<q>Lore Ipsum</q>"!
 ```
 
@@ -37,7 +37,7 @@ eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptu
 
 So it should be compiled like that:
 
-```
+```html
 <p>John Doe says:</p>
 
 <blockquote><p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -54,7 +54,7 @@ Lorem IPSUM dolor sit amet.
 
 So we it can be displayed like:
 
-```
+```html
 Lorem <strong>ipsum</strong> dolor sit amet.
 ```
 
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet!
 
 As HTML:
 
-```
+```html
 <strong>Lorem ipsum dolor sit amet!</strong>
 ```
 
@@ -84,7 +84,7 @@ John Doe loves "OpenID Connect"!
 
 could be displayed like that:
 
-```
+```html
 John Doe loves <em>"OpenID Connect"</em>!
 ```
 
@@ -112,7 +112,7 @@ compile
 
 to
 
-```
+```html
 <ul>
 <li>one<li>
 <li>two<li>
@@ -139,7 +139,7 @@ compile
 
 to
 
-```
+```html
 <ol>
 <li>one<li>
 <li>two<li>
@@ -166,7 +166,7 @@ gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 to
 
-```
+```html
 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy<br />
 eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
 
