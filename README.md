@@ -16,10 +16,20 @@ Not everything on MarkDown is geeky. Let's use some patterns that "normal" peopl
 
 ### Lists
 
-´´´
+```
 * one
 * two
 * three
   * three.one
   * three.two
-´´´
+```
+
+or
+
+```
+1. one
+2. two
+3. three
+  3.1 three.one
+  3.2 three.two
+```
