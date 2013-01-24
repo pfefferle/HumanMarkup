@@ -12,8 +12,8 @@ texts. So, what if we try to adapt these patterns for blogs or cms' systems?
 
 ## Adapting from MarkDown
 
-Not everything on [MarkDown](http://daringfireball.net/projects/markdown/) is geeky. There is a lot that "normal" 
-people already use.
+Not everything on [MarkDown](http://daringfireball.net/projects/markdown/) is geeky. There are a lot of patterns
+that "normal" people already use.
 
 ### Lists
 
