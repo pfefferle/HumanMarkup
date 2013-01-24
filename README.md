@@ -12,7 +12,7 @@ texts. So, what if we try to adapt these patterns for blogs or cms' systems?
 
 ## Adapting from MarkDown
 
-Not everything on MarkDown is geeky. Let's use some patterns that "normal" people will understand.
+Not everything on [MarkDown](http://daringfireball.net/projects/markdown/) is geeky. Let's use some patterns that "normal" people will understand.
 
 ### Lists
 
